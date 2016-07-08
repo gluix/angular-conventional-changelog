@@ -19,7 +19,7 @@ Usage (build changelog)
 
 
 
-Commit messages (karma-convention)
+Commit messages (angular-commit-convention)
 ===============
 
 ### The reasons for these conventions
@@ -96,4 +96,4 @@ All breaking changes have to be mentioned in footer with the description of the 
     to `--runner-port`.
     
     
-Commit message conventions based on [Karma Git Commit Msg Convention](http://karma-runner.github.io/0.10/dev/git-commit-msg.html)
+Commit message conventions based on https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#
