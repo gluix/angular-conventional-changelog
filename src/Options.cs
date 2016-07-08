@@ -2,7 +2,7 @@
 using CommandLine;
 using CommandLine.Text;
 
-namespace KarmaConventionBasedChangelogBuilder
+namespace AngularConventionalChangelog
 {
     public class Options
     {

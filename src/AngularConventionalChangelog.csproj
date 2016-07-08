@@ -8,8 +8,8 @@
     <ProjectGuid>{2E3C3D22-3BC4-4E8F-B581-62AAC8DFBDB0}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>KarmaConventionBasedChangelogBuilder</RootNamespace>
-    <AssemblyName>KarmaConventionBasedChangelogBuilder</AssemblyName>
+    <RootNamespace>AngularConventionalChangelog</RootNamespace>
+    <AssemblyName>AngularConventionalChangelog</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

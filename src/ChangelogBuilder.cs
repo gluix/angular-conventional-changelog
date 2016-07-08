@@ -7,7 +7,7 @@ using System.IO;
 using LibGit2Sharp;
 using System.Text.RegularExpressions;
 
-namespace KarmaConventionBasedChangelogBuilder
+namespace AngularConventionalChangelog
 {
     public static class ChangelogBuilder
     {
